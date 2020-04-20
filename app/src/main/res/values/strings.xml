@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikasi Kebun Binatang</string>
+    <string name="nama_binatang">Nama Binatang</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
